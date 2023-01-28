@@ -6,4 +6,8 @@ package lurenjia.sorm.bean;
  * @date 2023/1/28-9:50
  */
 public class HotFix {
+    @Override
+    public String toString() {
+        return "hot-fix";
+    }
 }
