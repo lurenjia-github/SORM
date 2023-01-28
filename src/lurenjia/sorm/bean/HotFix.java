@@ -11,4 +11,9 @@ public class HotFix {
 
         return "master";
     }
+
+    @Override
+    public int hashCode() {
+        return super.hashCode();
+    }
 }
