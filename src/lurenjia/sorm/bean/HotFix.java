@@ -8,8 +8,7 @@ package lurenjia.sorm.bean;
 public class HotFix {
     @Override
     public String toString() {
-
-        return "master";
+        return "master and hot fix";
     }
 
     @Override
